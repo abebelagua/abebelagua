@@ -93,6 +93,7 @@
 ## 📊 Stats:
 
 <div align="center">
+<p align="center">
   <!-- <img src="https://img.shields.io/github/followers/abebelagua.svg?label=Follow&style=flat" alt="abebelagua" /> -->
   <!-- <img src="https://img.shields.io/stackexchange/stackoverflow/r/12452827?label=StackOverflow%20Reputation&style=flat" alt="jagcruz" /> -->
   <!-- <img src="https://img.shields.io/website?url=https%3A%2F%2Fabebelagua.github.io%2F?style=flat" alt="jagcruz" /> -->
@@ -111,8 +112,10 @@
 
 <br />
 
-------------
+---
 
 [![](https://visitcount.itsvg.in/api?id=abebelagua&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <img src="https://img.shields.io/github/last-commit/abebelagua/abebelagua?label=Updated&style=flat" alt="abebelagua" />
+
+</div>
