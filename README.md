@@ -2,7 +2,7 @@
 
 ### Full stack developer with more than 5 years of experience in creating scalable and robust web applications. Expert in technologies such as Java, JavaScript, Node.js, React and SQL/NoSQL databases. Passionate about agile development and continuous process improvement
 
--   🔭 I’m currently working on **Nestjs and React**, you may want to view my [nestjs-template](https://github.com/abebelagua/nestjs-templates) repository
+-   🔭 I’m currently working on **Nestjs and React**, you may want to view my [nestjs-templates](https://github.com/abebelagua/nestjs-templates) repository
 
 <!-- - 🌱 I’m always improving my **Algorithms and Data Structures** skills, you may want to view my [codepen profile](https://codepen.io/abebelagua) -->
 <!-- - 🎮 In my spare time you can find me in the [UX Corp Rangel](https://github.com/UXCorpRangel) and [odraciRDev](https://www.twitch.tv/odracirdev) communities creating magic with **Astro**. -->
